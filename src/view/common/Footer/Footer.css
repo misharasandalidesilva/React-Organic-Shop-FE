@@ -1,0 +1,57 @@
+/*!** {*!*/
+/*!*    margin: 0;*!*/
+/*!*    padding: 0;*!*/
+/*!*    box-sizing: border-box;*!*/
+/*!*}*!*/
+
+/*!*.footer{*!*/
+/*!*    background-color: rgb(157, 209, 157);*!*/
+/*!*    padding: 1px;*!*/
+/*!*    color: black;*!*/
+/*!*    text-align: center;*!*/
+/*!*    height: 9vh;*!*/
+/*!*    display: flex;*!*/
+/*!*    justify-content: center;*!*/
+/*!*    align-items: center;*!*/
+/*!*}*!*/
+
+
+/*.footer {*/
+/*    background-color: #373b53;*/
+/*    color: white;*/
+/*    padding: 2rem;*/
+/*}*/
+
+/*.footer-container {*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    flex-wrap: wrap;*/
+/*    gap: 2rem;*/
+/*}*/
+
+/*.footer-section {*/
+/*    font-size: 15px;*/
+/*    flex: 1;*/
+/*    min-width: 100px;*/
+/*}*/
+
+/*.footer-section h3, .footer-section h2 {*/
+/*    margin-bottom: 1rem;*/
+/*}*/
+
+/*.footer-section ul {*/
+/*    list-style: none;*/
+/*    padding: 0;*/
+/*}*/
+
+/*.footer-section ul li {*/
+/*    margin-bottom: 0.5rem;*/
+/*}*/
+
+/*.footer-bottom {*/
+/*    text-align: center;*/
+/*    margin-top: 0.2rem;*/
+/*    font-size: 0.8rem;*/
+/*    border-top: 1px solid #757474;*/
+/*    padding-top: 1rem;*/
+/*}*/
